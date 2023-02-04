@@ -57,7 +57,8 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &vansytnut92
+
 facebook:
   username               :
   app_id                 :
@@ -85,7 +86,7 @@ author:
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=FwIkQMIAAAAJ&hl=en"
   email            : "sy.nguyen-van@uconn.edu"
   researchgate     :  "https://www.researchgate.net/profile/Sy-Nguyen-Van"
@@ -109,7 +110,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/vansytnut92"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
