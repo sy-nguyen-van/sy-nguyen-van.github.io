@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.1.26)  4 FEB 2023 17:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.1.26)  4 FEB 2023 18:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -628,13 +628,13 @@ LaTeX Font Info:    Trying to load font information for TS1+ppl on input line 2
 File: ts1ppl.fd 2001/06/04 font definitions for TS1/ppl.
 ) [1
 
-{C:/ProgramData/MiKTeX/fonts/map/pdftex/pdftex.map}] [2] [3]
+{C:/ProgramData/MiKTeX/fonts/map/pdftex/pdftex.map}] [2]
 LaTeX Font Info:    Trying to load font information for U+fontawesomeone on inp
-ut line 171.
+ut line 176.
 
 (C:\Program Files\MiKTeX\tex/latex/fontawesome\ufontawesomeone.fd
 File: ufontawesomeone.fd 2016/05/22 Font definitions for U/fontawesomeone.
-)
+) [3]
 
 AED: lastpage setting LastPage
 [4] (Sy Nguyen-Van_CV.aux)
@@ -648,16 +648,16 @@ Here is how much of TeX's memory you used:
  42368 multiletter control sequences out of 15000+600000
  481062 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 115i,6n,118p,461b,451s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 115i,6n,118p,468b,446s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Program Files/MiKTeX/fonts/enc/dvips/fontawesome/fontawesomeone.enc}{C:/P
 rogram Files/MiKTeX/fonts/enc/dvips/base/8r.enc}{C:/Program Files/MiKTeX/fonts/
 enc/dvips/fontawesome/fontawesometwo.enc}<C:/Program Files/MiKTeX/fonts/type1/p
 ublic/fontawesome/FontAwesome.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/pala
 tino/uplb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><C
 :/Program Files/MiKTeX/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on "Sy Nguyen-Van_CV.pdf" (4 pages, 111777 bytes).
+Output written on "Sy Nguyen-Van_CV.pdf" (4 pages, 107394 bytes).
 PDF statistics:
- 103 PDF objects out of 1000 (max. 8388607)
+ 93 PDF objects out of 1000 (max. 8388607)
  5 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
