@@ -49,7 +49,7 @@ Applications, (2019): pp. 35–46.
 and Thi Thanh Nga Nguyen, [The Dimensional Synthesis of the Four-Bar Mechanism with a Symbiotic Organisms Search Algorithm](https://link.springer.com/chapter/10.1007/978-3-030-64719-3_85) , International Conference
 on Engineering Research and Applications, (2020): pp. 780–791.
 - S. Nguyen-Van, Thi Thanh Nga Nguyen, Ngoc Nguyen-Dinh and Qui X. Lieu,
-Truss [Optimization Under Frequency Constraints by Using a Combined Differential
+[Truss Optimization Under Frequency Constraints by Using a Combined Differential
 Evolution and Jaya Algorithm](https://link.springer.com/chapter/10.1007/978-3-030-64719-3_95) , International Conference on Engineering Research and Applications, (2020): pp. 861–873.
 - S. Nguyen-Van, Diem Thi Thu Thuy, Nga Nguyen Thi Thanh and Ngoc
 Nguyen Dinh, [Evolutionary Tuning of PID Controllers for a Spatial Cable-Driven
