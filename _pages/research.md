@@ -11,7 +11,6 @@ author_profile: true
 ## Publications 
 
 
-## Publications
 
 ### International Journals
 
