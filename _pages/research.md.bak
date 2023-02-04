@@ -14,7 +14,8 @@ author_profile: true
 ## Publications
 
 ### International Journals
-Sy Nguyen-Van, Khoa T.Nguyen, Van Hai Luonge, Seunghye Lee and Qui
+
+- Sy Nguyen-Van, Khoa T.Nguyen, Van Hai Luonge, Seunghye Lee and Qui
 X.Lieu, A novel hybrid differential evolution and symbiotic organisms search algorithm for size and shape optimization of truss structures under multiple frequency
 constraints , Expert Systems with Applications. 184 (June) (2021) 115534,
 (SCIE-Q1, IF=6.954)
@@ -36,7 +37,9 @@ Based on Finite Element Method, Applied Sciences. 11 (13) (2021) 6052, (SCIEQ2, 
 - Sy Nguyen-Van and Qui X.Lieu, A single-step optimization method for topology,
 size and shape of trusses using hybrid differential evolution and symbiotic organisms
 search , Computers and Structures (Revision)
+
 ### International Conferences
+
 S. Nguyen-Van and K.-W. Gwak, A novel determination of boundaries of cable
 forces for cable-driven parallel robots with frequency constraint by using differential
 evolution algorithm, International Conference on Engineering Research and
