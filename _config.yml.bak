@@ -84,7 +84,7 @@ author:
   name             : "Sy Nguyen-Van"
   avatar           : "Sy_Imagine.png"
   bio              : #"Your biography for the left-hand sidebar"
-  location         : "UConn, USA"
+  location         : #"UConn, USA"
   employer         : #
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=FwIkQMIAAAAJ&hl=en&oi=sra"
