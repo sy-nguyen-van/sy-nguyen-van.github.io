@@ -84,8 +84,8 @@ author:
   name             : "Sy Nguyen-Van"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
+  location         : "Engineering II building, 191 Auditorium Rd #304, Storrs, CT 06269"
+  employer         : #
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=FwIkQMIAAAAJ&hl=en"
   email            : "sy.nguyen-van@uconn.edu"
@@ -95,7 +95,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "https://www.facebook.com/van.sytnut/"
+  facebook         : "van.sytnut"
   foursquare       :
   github           : "sy-nguyen-van"
   google_plus      :
@@ -110,7 +110,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/vansytnut92"
+  twitter          : "vansytnut92"
   vine             :
   weibo            :
   xing             :

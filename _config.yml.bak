@@ -86,22 +86,22 @@ author:
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
-  pubmed           : 
+  pubmed           : #
   googlescholar    : "https://scholar.google.com/citations?user=FwIkQMIAAAAJ&hl=en"
   email            : "sy.nguyen-van@uconn.edu"
-  researchgate     :  "https://www.researchgate.net/profile/Sy-Nguyen-Van"
+  researchgate     : "https://www.researchgate.net/profile/Sy-Nguyen-Van"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "https://www.facebook.com/van.sytnut/"
+  facebook         : "van.sytnut"
   foursquare       :
   github           : "sy-nguyen-van"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         : "https://vn.linkedin.com/in/sy-nguyen-van-b73826205"
   orcid            : "https://orcid.org/0000-0001-8234-7013"
@@ -110,7 +110,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "vansytnut92"
   vine             :
   weibo            :
   xing             :
