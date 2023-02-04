@@ -57,7 +57,8 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &vansytnut92
+
 facebook:
   username               :
   app_id                 :
@@ -96,7 +97,7 @@ author:
   flickr           :
   facebook         : "https://www.facebook.com/van.sytnut/"
   foursquare       :
-  github           : "https://github.com/sy-nguyen-van"
+  github           : "sy-nguyen-van"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +110,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/vansytnut92"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
