@@ -39,7 +39,7 @@ search , Computers and Structures (Revision)
 
 ### International Conferences
 
-S. Nguyen-Van and K.-W. Gwak, A novel determination of boundaries of cable
+- S. Nguyen-Van and K.-W. Gwak, A novel determination of boundaries of cable
 forces for cable-driven parallel robots with frequency constraint by using differential
 evolution algorithm, International Conference on Engineering Research and
 Applications, (2019): pp. 35–46.
