@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. candidate at University of Connecticut (USA) and is advised by Professor. Julian Norato. I received my B.S. and M.S. in Mechanical Engineering from Thai Nguyen University of Technology (Vietnam) in 2015 and Sejong University (South Korea) in 2019, respectively. My research interests focus on computational mechanics, topology optimization, machine learning and data science.
+I am currently a Ph.D. candidate in the [Department of Mechanical](https://me.engr.uconn.edu/) at the [University of Connecticut](https://uconn.edu/) (USA) and is advised by Professor. Julian Norato. 
+I received my B.S. and M.S. in Mechanical Engineering from Thai Nguyen University of Technology (Vietnam) in 2015 and Sejong University (South Korea) in 2019, respectively. 
+My research interests focus on computational mechanics, topology optimization, machine learning and data science.
 
 
 

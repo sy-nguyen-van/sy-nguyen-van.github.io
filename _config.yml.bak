@@ -87,9 +87,9 @@ author:
   location         : "UConn, USA"
   employer         : #
   pubmed           : 
-  googlescholar    : "citations?user=FwIkQMIAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=FwIkQMIAAAAJ&hl=en&oi=sra"
   email            : "sy.nguyen-van@uconn.edu"
-  researchgate     : "Sy-Nguyen-Van"
+  researchgate     : "https://www.researchgate.net/profile/Sy-Nguyen-Van"
   uri              :
   bitbucket        :
   codepen          :
