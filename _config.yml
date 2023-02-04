@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &vansytnut92
+  username               : &twitter
 
 facebook:
   username               :
@@ -83,8 +83,8 @@ analytics:
 author:
   name             : "Sy Nguyen-Van"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Engineering II building, 191 Auditorium Rd #304, Storrs, CT 06269"
+  bio              : #"Your biography for the left-hand sidebar"
+  location         : "https://goo.gl/maps/bqLt1iA9N7NesPbD6"
   employer         : #
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=FwIkQMIAAAAJ&hl=en"

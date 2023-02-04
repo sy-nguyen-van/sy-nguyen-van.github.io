@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &vansytnut92
+  username               : &twitter
 
 facebook:
   username               :
@@ -84,9 +84,9 @@ author:
   name             : "Sy Nguyen-Van"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : #
+  location         : "https://goo.gl/maps/bqLt1iA9N7NesPbD6"
+  employer         : #
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=FwIkQMIAAAAJ&hl=en"
   email            : "sy.nguyen-van@uconn.edu"
   researchgate     : "https://www.researchgate.net/profile/Sy-Nguyen-Van"
