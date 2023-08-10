@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               :  
 
 facebook:
   username               :
@@ -95,7 +95,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "van.sytnut"
+  facebook         :  
   foursquare       :
   github           : "sy-nguyen-van"
   google_plus      :
@@ -110,7 +110,7 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "vansytnut92"
+  twitter          :  
   vine             :
   weibo            :
   xing             :
